@@ -7,7 +7,7 @@ bb9cea4c390f        php-test-app              "container-entrypo..."   2 hours a
 d0dd8cc75937        centos/mysql-57-centos7   "container-entrypo..."   2 hours ago         Up 2 hours          0.0.0.0:3306->3306/tcp                           centos_db_1
 3f5758149746        centos/redis-32-centos7   "container-entrypo..."   12 hours ago        Up 2 hours          0.0.0.0:6379->6379/tcp                           centos_redis_1
 
-http://russtlt.ddns.net:8088/ nginx
+http://russtlt.ddns.net:8088/ nginx<br>
 http://russtlt.ddns.net:8800/ phpinfo
 http://russtlt.ddns.net:8082/ phpmyadmin
 
